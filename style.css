@@ -1,0 +1,17 @@
+/* Ini external */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#paragraf1 {
+    color: red;
+}
+
+.paragraf {
+    color: goldenrod;
+}
+
+h1 {
+    text-align: center;
+    color: pink;
+}
